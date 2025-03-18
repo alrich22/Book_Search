@@ -11,4 +11,5 @@ Next, run 'npm start:dev' in the root to start the application
 
 ## How to Contribute
 
-if interested in contributing please email me at alyssarichards3@gmail.com or find my GitHub account at github.com/alrich22
+If interested you in contributing please email me at alyssarichards3@gmail.com or find my GitHub account at github.com/alrich22
+Deployment link: https://book-search-zohj.onrender.com
